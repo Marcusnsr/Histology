@@ -1,5 +1,6 @@
 # Histology
-Fine-tuning a large vision-language model (SlideChat) to analyze and predict 15 different pathology features in IBD slides to assist pathologists.
+
+IF USING SLIDECHAT:
 ```
 conda create --name slidechat python=3.10 -y
 conda activate slidechat
