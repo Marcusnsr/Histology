@@ -8,3 +8,4 @@ wandb/
 checkpoints/
 **/*.ckpt
 **/*.synced
+slide_embeddings/
