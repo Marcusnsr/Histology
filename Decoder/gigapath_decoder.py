@@ -1,5 +1,4 @@
 import warnings
-# Suppress Pydantic warnings from libraries immediately
 warnings.filterwarnings("ignore", message=".*The 'repr' attribute with value False.*")
 warnings.filterwarnings("ignore", message=".*The 'frozen' attribute with value True.*")
 warnings.filterwarnings("ignore", category=UserWarning, module="pydantic")
